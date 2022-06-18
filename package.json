@@ -1,0 +1,13 @@
+{
+  "name": "ad-uppernodes-serverless-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^25.1.0"
+  },
+  "dependencies": {
+    "mongoose": "^6.3.6",
+    "mongoose-paginate-v2": "^1.6.3"
+  }
+}
